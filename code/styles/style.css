@@ -1,17 +1,8 @@
 
-:root {
-    --accent: #7BFFE9;
-    --text-primary: #000000;
-    --text-secondary: #646464;
-    --white-text: #FFFFFF;
-    --dark-mode: #2A3B49;
-}
-
 body {
     background-image:url("../assets/homepage.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    font-family: 'Montserrat', sans-serif;
     position: relative;
 }
 

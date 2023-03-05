@@ -20,3 +20,12 @@ img, picture, svg, video {
 input, textarea, button, select {
     font: inherit;
 }
+
+:root {
+    --accent: #7BFFE9;
+    --text-primary: #000000;
+    --text-secondary: #646464;
+    --white-text: #FFFFFF;
+    --dark-mode: #2A3B49;
+    font-family: 'Montserrat', sans-serif;
+}
